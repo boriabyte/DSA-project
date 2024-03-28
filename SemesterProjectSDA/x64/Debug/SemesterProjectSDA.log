@@ -1,0 +1,9 @@
+﻿  SemesterProjectSDA.cpp
+D:\Programming\VS\Projects\SDASemesterProject\SemesterProjectSDA\auxArrays.h(17,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\Programming\VS\Projects\SDASemesterProject\SemesterProjectSDA\auxArrays.h(17,20): warning C4244:         with
+D:\Programming\VS\Projects\SDASemesterProject\SemesterProjectSDA\auxArrays.h(17,20): warning C4244:         [
+D:\Programming\VS\Projects\SDASemesterProject\SemesterProjectSDA\auxArrays.h(17,20): warning C4244:             _Rep=std::chrono::system_clock::rep
+D:\Programming\VS\Projects\SDASemesterProject\SemesterProjectSDA\auxArrays.h(17,20): warning C4244:         ]
+  (compiling source file 'SemesterProjectSDA.cpp')
+  
+  SemesterProjectSDA.vcxproj -> D:\Programming\VS\Projects\SDASemesterProject\x64\Debug\SemesterProjectSDA.exe
